@@ -1,4 +1,4 @@
-package com.letscode.MicrosserviceHarryPotter.payloads;
+package com.letscode.MicrosserviceHarryPotter.payloads.clients;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;
@@ -13,5 +13,5 @@ public class CasaResponse {
     private String name;
     private String animal;
     private String founder;
-    private String values;
+//    private String values;
 }

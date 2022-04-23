@@ -1,9 +1,6 @@
 package com.letscode.MicrosserviceHarryPotter.entities;
 
-import com.fasterxml.jackson.annotation.JsonProperty;
 import com.letscode.MicrosserviceHarryPotter.payloads.AlunoResponse;
-import com.letscode.MicrosserviceHarryPotter.payloads.CasaResponse;
-import com.letscode.MicrosserviceHarryPotter.payloads.clients.Chave;
 import lombok.Data;
 
 import javax.persistence.*;

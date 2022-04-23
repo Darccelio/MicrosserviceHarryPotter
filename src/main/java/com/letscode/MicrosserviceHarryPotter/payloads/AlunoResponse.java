@@ -1,6 +1,7 @@
 package com.letscode.MicrosserviceHarryPotter.payloads;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
+import com.letscode.MicrosserviceHarryPotter.payloads.clients.CasaResponse;
 import lombok.Data;
 
 @Data

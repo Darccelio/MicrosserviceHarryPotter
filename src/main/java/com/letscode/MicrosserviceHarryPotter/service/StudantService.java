@@ -4,7 +4,7 @@ import com.letscode.MicrosserviceHarryPotter.clients.GetInfoCasa;
 import com.letscode.MicrosserviceHarryPotter.entities.Aluno;
 import com.letscode.MicrosserviceHarryPotter.payloads.AlunoRequest;
 import com.letscode.MicrosserviceHarryPotter.payloads.AlunoResponse;
-import com.letscode.MicrosserviceHarryPotter.payloads.CasaResponse;
+import com.letscode.MicrosserviceHarryPotter.payloads.clients.CasaResponse;
 import com.letscode.MicrosserviceHarryPotter.payloads.clients.Chave;
 import com.letscode.MicrosserviceHarryPotter.repository.AlunoRepository;
 import org.springframework.beans.factory.annotation.Autowired;

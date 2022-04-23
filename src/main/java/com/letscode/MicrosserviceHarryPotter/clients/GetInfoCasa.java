@@ -1,7 +1,6 @@
 package com.letscode.MicrosserviceHarryPotter.clients;
 
-import com.letscode.MicrosserviceHarryPotter.payloads.CasaResponse;
-import com.letscode.MicrosserviceHarryPotter.payloads.clients.CasaHarryPotter;
+import com.letscode.MicrosserviceHarryPotter.payloads.clients.CasaResponse;
 import com.letscode.MicrosserviceHarryPotter.payloads.clients.Chave;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.http.*;
