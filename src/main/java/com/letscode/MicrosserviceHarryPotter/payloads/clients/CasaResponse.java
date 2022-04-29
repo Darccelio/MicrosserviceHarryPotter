@@ -13,5 +13,5 @@ public class CasaResponse {
     private String name;
     private String animal;
     private String founder;
-//    private String values;
+    private List<Value> values;
 }
